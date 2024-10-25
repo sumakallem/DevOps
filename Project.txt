@@ -1,0 +1,16 @@
+Details of project :
+
+### 1. Basic Syntax and Data Types
+**Question:** Write a Perl script that declares an array of numbers, calculates the sum of the numbers, and prints the result.
+
+*Assessment:* Understanding of basic Perl syntax, data structures, and arithmetic operations.
+
+### 2. String Manipulation
+**Question:** Write a function that takes a string as input and returns the string reversed.
+
+*Assessment:* Knowledge of string manipulation and function definition in Perl.
+
+### 3. Regular Expressions
+**Question:** Write a Perl script that takes an input string and checks if it contains a valid email address.
+
+*Assessment:* Understanding of regular expressions and their applications in string validation.
